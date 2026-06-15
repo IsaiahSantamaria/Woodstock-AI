@@ -9,7 +9,7 @@ Jan 2026 - May 2026
 My personal AI agent that can sent GET HTTP request to summarize cvs, pdf, and other files without having to know advance coding. This was all completed through n8n workflow platform
 
 
-<img src="images/workflow.png"width="100%" />
+<img src="images/workflow.png" width="100%"/>
 
 
 
